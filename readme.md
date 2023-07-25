@@ -7,15 +7,15 @@ You'll need to use your knowledge of basic JavaScript syntax, including variable
 
 Project Requirements
 
-Create Array of Objects
+Create Array of Objects:
     Array of objects is named quotes
     Array contains at least 5-10 quote objects
 
-Create Array of Objects
+Create Array of Objects:
     Array of objects is named bg
     Array contains bg objects equal to number of quotes selected
 
-Quote Object
+Quote Object:
     Objects in array include quote.
     Another array includes background colors
 
